@@ -2,7 +2,7 @@
 
 Ping-Pong Game is a classic arcade game where two players control paddles on opposite sides of the screen, trying to hit a ball back and forth without missing it. The game is built using HTML, CSS, and JavaScript.
 
-![Gameplay](/path/to/gameplay_screenshot.png)
+![Gameplay](gamess.png)
 
 ## How to Play
 
@@ -17,7 +17,7 @@ You can play the game [here](https://sithumsankajith.github.io/ping-pong/).
 ## Screenshots
 
 
-![Game Over](/path/to/gameover_screenshot.png)
+![Game Over](overss.png)
 
 ## Technologies Used
 
